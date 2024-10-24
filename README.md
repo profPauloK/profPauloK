@@ -1,6 +1,6 @@
-## Bem vindo ao meu perfil de professor! 👋
+### Bem vindo ao meu perfil de professor! 👋
 
-Meu nome é Paulo Kretikouski
+Meu nome é **Paulo Kretikouski**
 
 Estou estudando na Alura por conta da disciplina de Tecnologia e Robótica.
 Estou me desenvolvendo na linguagem JavaScript.
@@ -13,7 +13,7 @@ kretikouski@prof.educacao.sp.gov.br
 😄
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1f/One_positive_frequency_component%2C_cosine_and_sine%2C_from_rotating_vector_%28fast_animation%29.gif)
+![gif de seno e cosseno](https://upload.wikimedia.org/wikipedia/commons/1/1f/One_positive_frequency_component%2C_cosine_and_sine%2C_from_rotating_vector_%28fast_animation%29.gif)
 <!--
 **profPauloK/profPauloK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
