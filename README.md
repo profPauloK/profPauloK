@@ -1,4 +1,3 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikidocs.net%2F192339&psig=AOvVaw1RxOGXc6arKr8JlqDN59Sx&ust=1729875521539000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMihrNG-p4kDFQAAAAAdAAAAABAE)
 ## Bem vindo ao meu perfil de professor! 👋
 
 Meu nome é Paulo Kretikouski
@@ -13,6 +12,8 @@ kretikouski@prof.educacao.sp.gov.br
 @paulokroque
 😄
 
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1f/One_positive_frequency_component%2C_cosine_and_sine%2C_from_rotating_vector_%28fast_animation%29.gif)
 <!--
 **profPauloK/profPauloK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
