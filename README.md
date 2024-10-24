@@ -1,3 +1,4 @@
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikidocs.net%2F192339&psig=AOvVaw1RxOGXc6arKr8JlqDN59Sx&ust=1729875521539000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMihrNG-p4kDFQAAAAAdAAAAABAE)
 ## Bem vindo ao meu perfil de professor! 👋
 
 Meu nome é Paulo Kretikouski
@@ -10,7 +11,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 kretikouski@prof.educacao.sp.gov.br
 
 @paulokroque
-:()
+😄
 
 <!--
 **profPauloK/profPauloK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
