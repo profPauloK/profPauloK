@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil de professor! 👋
+## Bem vindo ao meu perfil de professor! 👋
 
 Meu nome é **Paulo Kretikouski**
 
@@ -6,7 +6,7 @@ Estou estudando na Alura por conta da disciplina de Tecnologia e Robótica.
 Estou me desenvolvendo na linguagem JavaScript.
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-## Você pode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 kretikouski@prof.educacao.sp.gov.br
 
 @paulokroque
