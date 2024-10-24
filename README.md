@@ -10,7 +10,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 kretikouski@prof.educacao.sp.gov.br
 
 @paulokroque
-:)
+:()
 
 <!--
 **profPauloK/profPauloK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
